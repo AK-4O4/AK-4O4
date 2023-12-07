@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AK-4O4
+- 👋 Hi, I’m @Azak
 - 🌱 I’m currently learning JavaScript
 
 <!---
