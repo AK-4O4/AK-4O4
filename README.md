@@ -1,6 +1,6 @@
-# Hi there, I'm Muhammad Abdullah 👋
+# Hi there, I'm Abdullah 👋
 
-I'm a passionate student developer focused on **Web** and **Mobile Development**, building projects that blend creativity with clean code. Always learning, always shipping.
+I'm a passionate student developer focused on **Web** and **Mobile Development**, building projects that blend creativity with clean code. Always learning.
 
 ---
 
@@ -42,24 +42,3 @@ A full-stack application that hides and reveals secret messages within images us
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AK-4O4&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-4O4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-AK--4O4-181717?style=flat-square&logo=github)](https://github.com/AK-4O4)
-
----
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
