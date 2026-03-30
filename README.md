@@ -10,7 +10,6 @@ I'm a passionate student developer focused on **Web** and **Mobile Development**
 - 🌐 Focused on **Web Development** & **📱 Mobile Development**
 - 🛠️ Building with **JavaScript / TypeScript**, **Python**, **React**, **Flutter**, and **FastAPI**
 - 🌱 Exploring full-stack and cross-platform development
-- 🎯 Goal: Ship meaningful projects and contribute to the community
 
 ---
 
