@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah 👋
 
-I'm a passionate student developer focused on **Web** and **Mobile Development**, building projects that blend creativity with clean code. Always learning.
+I'm a passionate student developer focused on **Web** and **Mobile Development**, building projects that might be useful. Always learning.
 
 ---
 
